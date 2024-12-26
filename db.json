@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "4d95",
+      "username": "testing",
+      "email": "testing@gmail.com",
+      "password": "testing"
+    },
+    {
+      "id": "3b55",
+      "username": "testing",
+      "email": "testing1@gmail.com",
+      "password": "testing"
+    }
+  ],
+  "products": [
+    {
+      "id": "58ef",
+      "title": "test",
+      "price": "435",
+      "img": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg"
+    },
+    {
+      "id": "0d8f",
+      "title": "t-shirt",
+      "price": "78897",
+      "img": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "563f",
+      "title": "i phone",
+      "price": "78897",
+      "img": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/x/k/c/5-890-wt-blk-deals4you-white-original-imagp34qyfvuwzxw.jpeg?q=70"
+    }
+  ],
+  "carts": [
+    {
+      "id": "5ffb",
+      "title": "t-shirt",
+      "price": "78897",
+      "img": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70&crop=false",
+      "qty": 1,
+      "productId": "0d8f"
+    },
+    {
+      "id": "be0c",
+      "title": "test",
+      "price": "435",
+      "img": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+      "qty": 1,
+      "productId": "58ef"
+    }
+  ]
+}

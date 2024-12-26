@@ -1,0 +1,6 @@
+#product {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background-color: aliceblue;
+    margin-inline: auto;
+}
